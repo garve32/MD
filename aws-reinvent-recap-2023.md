@@ -1,6 +1,7 @@
 ---
 
 marp: true
+#theme: dracula
 theme: uncover
 class: invert
 paginate: true
@@ -16,7 +17,7 @@ style: |
     }
 
 ---
-<!-- _footer: 한화시스템/ICT 제조운영2팀 -->
+<!-- _footer: 한화시스템/ICT - 제조운영2팀 -->
 
 ## **AWS re:Invent re:cap for MFG**
 
