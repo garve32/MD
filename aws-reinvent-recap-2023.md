@@ -16,6 +16,7 @@ style: |
     }
 
 ---
+<!-- _footer: 한화시스템/ICT 제조운영2팀 -->
 
 ## **AWS re:Invent re:cap for MFG**
 
