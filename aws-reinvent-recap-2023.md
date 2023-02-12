@@ -1,5 +1,7 @@
 ---
+
 marp: true
+#theme: dracula
 theme: uncover
 class: invert
 paginate: true
@@ -15,22 +17,27 @@ style: |
     }
 
 ---
+<!-- _footer: 한화시스템/ICT - 제조운영2팀 -->
 
 ## **AWS re:Invent re:cap for MFG**
 
 2023.01.30 역삼센터필드 AWS코리아
+
+* 
+**Recapitulation : 요점을 되풀이하다**
 
 ---
 
 <!-- footer: AWS re:Invent re:cap for MFG -->
 
 # **Session 1.**
-##### **AWS RE:INVENT - 2022.11.28 ~ 12.02 Las Vegas**
+##### **AWS RE:INVENT** 2022.11.28 ~ 12.02 Las Vegas
 
+* **세계 최대 클라우드 기술 행사.**
+ 수백개의 기술 세션 및 문화 컨텐츠
 * 전체 오프라인 참가자 약 5만명, 온라인 30만명
 **한국에서 약 1700여명 참석**
 * 매년 라스베가스에서 **11월 마지막주**에 행사가 치뤄짐
-* 보통 Black Friday 다음주에 열리기 때문에 미리가서 쇼핑 하는것도 괜찮은 선택임
 * 통상 **5월에 사전등록** 오픈을 하니 올해 많은 관심바람
 
 
@@ -59,12 +66,12 @@ style: |
 
 ---
 
-# **소감**
+# **마치며**
 
 <div class="columns">
 <div>
 
-![height:400px](IMG-3456.jpg)
+![height:460px](IMG-3456.jpg)
 
 </div>
 <div>
@@ -72,6 +79,7 @@ style: |
 * GS, SK, 한국타이어 등등의 업체가 참석 했고 AWS 활용을 잘 하고 있음
 * 참석하여 Insight를 얻는 것 자체에 의의를 둠
 * 점심 안먹고 갈 걸(다양한 핑거푸드, 음료 제공)
+* 언젠가는 라스베가스
 
 </div>
 </div>
